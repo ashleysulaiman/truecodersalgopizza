@@ -1,2 +1,11 @@
-Step 1: Order the pizza
-Step 2: Wait for the delivery
+1) Google local pizza places
+2) Decide which one to order from
+3) Call the establishment
+4) Place our order
+5a)  IF we pay over the phone then provide payment info
+            - Wait for delivery
+            - Tip the driver
+5b IF we are going to pay at the door
+            - Wait for delivery
+            - Pay for the pizza
+            - Tip the driver
